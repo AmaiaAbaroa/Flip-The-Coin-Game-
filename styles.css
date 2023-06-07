@@ -48,6 +48,7 @@ h3{
 }
 .coin img{
     width: 120%;
+    margin-left: -5%;
 }
 .Aside,.Bside{
     position: absolute;
@@ -82,14 +83,6 @@ h3{
         transform: rotateX(2160deg);
     }
 }
-/* @keyframes spin-Cside {
-    0% {
-      transform: rotateX(0);
-    }
-    100% {
-      transform: rotateX(2340deg);
-    }
-  } */
 
 .counter{
     display: flex;
